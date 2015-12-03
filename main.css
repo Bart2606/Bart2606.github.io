@@ -23,8 +23,8 @@ img{
 
   margin: auto;
   width: 80%;
-  border-style: solid;
+  border-style: double;
   border-color: #ff1fff;
-  border-width: 2px;
+  border-width: 7px;
 }
 
