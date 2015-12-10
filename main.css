@@ -31,7 +31,10 @@ img{
 }
 li{ background-color:#FE9A2E ;
 }
-/* mouse over link */
 a:hover {
     color: orange;
  }
+li:hover {
+  background-color: black;
+}
+}
