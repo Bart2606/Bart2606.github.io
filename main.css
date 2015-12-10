@@ -9,7 +9,7 @@ html{
 
 }
 a{
-  color:#FE9A2E;
+  color:black;
 }
 img{
 
@@ -29,4 +29,5 @@ img{
   border-color: #FE9A2E;
   border-width: 7px;
 }
-
+li{ background-color:#FE9A2E ;
+}
